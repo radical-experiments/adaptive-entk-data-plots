@@ -1,5 +1,0 @@
-#!/home/vivek/Research/repos/si2-scale-md/papers/ipdps-2017/graphs/exp1/ana/bin/python2
-
-import radical.analytics
-print  radical.analytics.version_detail
-
