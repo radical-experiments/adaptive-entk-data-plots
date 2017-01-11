@@ -1,0 +1,13 @@
+#!/home/vivek/Research/repos/si2-scale-md/papers/ipdps-2017/graphs/exp1/ana/bin/python2
+
+import os
+import sys
+import radical.pilot as rp
+
+if len(sys.argv) > 1 and '-v' in sys.argv:
+    print 'version: %s' % rp.version_detail
+    print 'modpath: %s' % os.path.dirname(rp.__file__)
+
+else:
+    print rp.version_detail
+
