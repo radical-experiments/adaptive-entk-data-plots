@@ -8,7 +8,8 @@ import glob
 if __name__ == '__main__':
 
     tasks=2048
-    cores=[256,512,1024,2048,4096]
+    #cores=[256,512,1024,2048,4096]
+    cores = [256, 1024, 2048, 4096]
 
     f = open('strong-profiles.csv','w')
     f.write('tasks, cores, execution time\n')
