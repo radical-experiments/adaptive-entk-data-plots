@@ -1,0 +1,8 @@
+#time,name,uid,state,event,msg
+0.0000,agent_0.AgentWorker.0:,,,sync abs,1484843409.73:1484843409.73:1484843409.73:sys
+0.0009,agent_0.AgentWorker.0:MainThread,,,flush,
+3162.6779,agent_0.AgentWorker.0:agent_0.AgentWorker.0.subscriber,,,closing,
+3162.6779,agent_0.AgentWorker.0:agent_0.AgentWorker.0.subscriber,,,finalize,
+3162.6779,agent_0.AgentWorker.0:agent_0.AgentWorker.0.subscriber,,,finalized,
+3164.8645,agent_0.AgentWorker.0:agent_0.AgentWorker.0.subscriber,,,stopped,
+3164.8645,agent_0.AgentWorker.0:agent_0.AgentWorker.0.subscriber,,,QED,
