@@ -1,8 +1,8 @@
 #time,name,uid,state,event,msg
-0.0000,agent_0.AgentUpdateWorker.0:,,,sync abs,1484843411.33:1484843411.33:1484843411.33:sys
-0.0009,agent_0.AgentUpdateWorker.0:MainThread,,,flush,
-3163.1747,agent_0.AgentUpdateWorker.0:MainThread,,,closing,
-3163.1747,agent_0.AgentUpdateWorker.0:MainThread,,,finalize,
-3163.1747,agent_0.AgentUpdateWorker.0:MainThread,,,finalized,
-3163.2525,agent_0.AgentUpdateWorker.0:MainThread,,,stopped,
-3163.2525,agent_0.AgentUpdateWorker.0:MainThread,,,QED,
+0.0000,agent_0.AgentUpdateWorker.0:,,,sync abs,1484869667.75:1484869667.74:1484869667.74:sys
+0.0010,agent_0.AgentUpdateWorker.0:MainThread,,,flush,
+2058.9087,agent_0.AgentUpdateWorker.0:MainThread,,,closing,
+2058.9087,agent_0.AgentUpdateWorker.0:MainThread,,,finalize,
+2058.9087,agent_0.AgentUpdateWorker.0:MainThread,,,finalized,
+2058.9525,agent_0.AgentUpdateWorker.0:MainThread,,,stopped,
+2058.9525,agent_0.AgentUpdateWorker.0:MainThread,,,QED,

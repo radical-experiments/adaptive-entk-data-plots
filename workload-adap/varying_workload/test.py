@@ -3,12 +3,12 @@ import radical.utils as ru
 import pprint
 import json
 
-sid='rp.session.js-172-77.jetstream-cloud.org.vivek91.017185.0007'
-src='./'
+sid='rp.session.js-172-77.jetstream-cloud.org.vivek91.017185.0010'
+src='./data/'
 session = ra.Session(sid, 'radical.pilot', src=src)
 units = session.get(etype='unit')
 
-json_file = sid + '.json'
+json_file = './data/' + sid + '.json'
 json = ru.read_json(json_file)
 
 states = units[0].states.keys()

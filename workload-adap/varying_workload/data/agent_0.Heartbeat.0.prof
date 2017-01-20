@@ -1,8 +1,8 @@
 #time,name,uid,state,event,msg
-0.0000,agent_0.Heartbeat.0:,,,sync abs,1484843411.35:1484843411.35:1484843411.35:sys
-0.0010,agent_0.Heartbeat.0:MainThread,,,flush,
-3163.2275,agent_0.Heartbeat.0:MainThread,,,closing,
-3163.2275,agent_0.Heartbeat.0:MainThread,,,finalize,
-3163.2275,agent_0.Heartbeat.0:MainThread,,,finalized,
-3163.2314,agent_0.Heartbeat.0:MainThread,,,stopped,
-3163.2314,agent_0.Heartbeat.0:MainThread,,,QED,
+0.0000,agent_0.Heartbeat.0:,,,sync abs,1484869669.77:1484869669.77:1484869669.77:sys
+0.0009,agent_0.Heartbeat.0:MainThread,,,flush,
+2056.9244,agent_0.Heartbeat.0:MainThread,,,closing,
+2056.9244,agent_0.Heartbeat.0:MainThread,,,finalize,
+2056.9244,agent_0.Heartbeat.0:MainThread,,,finalized,
+2056.9288,agent_0.Heartbeat.0:MainThread,,,stopped,
+2056.9288,agent_0.Heartbeat.0:MainThread,,,QED,
