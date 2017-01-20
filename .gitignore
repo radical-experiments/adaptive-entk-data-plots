@@ -1,3 +1,7 @@
 # Heavy session dumps #
 #####################
 *.json
+
+# Heavy gromacs files #
+######################
+*.xtc
