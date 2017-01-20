@@ -1,0 +1,1 @@
+macro_transition_counts = tc.datmacro_weights = weights.datmacro_conf_0 = macro0-0.gromacro_conf_1 = macro3-0.gromacro_conf_2 = macro4-0.gromacro_conf_3 = macro5-0.gromacro_conf_4 = macro6-0.gromacro_conf_5 = macro7-0.gromacro_conf_6 = macro8-0.gro
