@@ -1,0 +1,10 @@
+Ensemble size = 100
+1 simulation duration = 0.01ns
+Number of iterations = 10
+Input configuration = 25 of each configuration ('equil?.gro') at https://github.com/kassonlab/copernicus/tree/master/examples/msm/alanine-dipeptide-msm (hence 100 for 100 ensemble members)
+
+Recluster = 1.0 ns
+Macro states = 10
+Micro states = 100
+Simulations generated per macrostate = 10
+Lag time = 2 
