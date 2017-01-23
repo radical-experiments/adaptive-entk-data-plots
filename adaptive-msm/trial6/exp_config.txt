@@ -13,3 +13,4 @@ Lag time = 2
 * We use the new_run*.gro as the input to the simulation in the next iteration.
 * We determine the psi-phi values of the macro*-0.gro files (the number of unique psi-phi values generated is always <= size of the eigen vector).
 * We plot the PMF determined from the eigen vector (lambda=1) and plot in the psi-phi space.
+* The eigen vector is found from the transition matrix.
